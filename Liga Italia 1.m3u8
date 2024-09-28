@@ -3,4 +3,4 @@
 #EXT-X-MEDIA-SEQUENCE:1
 #EXT-X-TARGETDURATION:1
 #EXTINF:1,
-http://laurenlending.pproxy.cc:80/play/live.php?mac=00:1A:79:74:08:F0&stream=151294&extension=ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:C3:C9:45&stream=642680&extension=ts&play_token=vuAXQCAG3h
