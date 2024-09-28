@@ -6,4 +6,4 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-http://laurenlending.pproxy.cc:80/play/live.php?mac=00:1A:79:74:08:F0&stream=45485&extension=ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:C3:C9:45&stream=520181&extension=ts&play_token=N4iBuZteWh
