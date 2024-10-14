@@ -5,5 +5,4 @@
 #EXT-X-I-FRAMES-ONLY
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXTINF:1,
-http://mku0414.oknirvana.club:8880/live/29ca10173n08/asdf23r2/28942.ts
-http://abcnew.site:8880/live/D12m2677/35275139/28942.ts
+http://162.19.37.133:8080/play/live.php?mac=00:1A:79:BA:DB:C2&stream=97145&extension=ts
